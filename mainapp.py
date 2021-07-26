@@ -1,0 +1,5 @@
+"""
+maonapp
+"""
+
+print("mainapp.py")
